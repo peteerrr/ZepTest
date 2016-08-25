@@ -1,5 +1,0 @@
-package zeptest
-
-class Entities {
-
-}
